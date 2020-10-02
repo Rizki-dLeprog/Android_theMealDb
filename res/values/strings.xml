@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sakaintek</string>
+    // TODO: 27/09/20
+    <string name="Seafood">Seafood</string>
+    <string name="Dessert">Dessert</string>
+    <string name="Vegan">Vegan</string>
+</resources>
