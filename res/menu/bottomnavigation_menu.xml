@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/seafood_menu"
+        android:title="@string/Seafood"
+        android:icon="@drawable/ic_seafood"/>
+    <item
+        android:id="@+id/dessert_menu"
+        android:title="@string/Dessert"
+        android:icon="@drawable/ic_dessert"/>
+    <item
+        android:id="@+id/vegan_menu"
+        android:title="@string/Vegan"
+        android:icon="@drawable/ic_vegan"/>
+
+</menu>
